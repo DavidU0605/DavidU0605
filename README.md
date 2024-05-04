@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A full-stack developer from Austria</h3>
+<h3 align="center">A Web-Developer from Austria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidu0605&label=Profile%20views&color=0e75b6&style=flat" alt="davidu0605" /> </p>
 
